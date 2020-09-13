@@ -2,7 +2,6 @@ from selenium import webdriver
 from time import sleep
 import urllib
 import requests
-import random
 import os
 import shutil
 
